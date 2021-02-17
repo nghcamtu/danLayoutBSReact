@@ -1,0 +1,3 @@
+NOTE
+- React Class Component, là class nên sẽ có property (đậc tính) và method (phương thức). 
+- React Functional Componet, là 1 fuction 
